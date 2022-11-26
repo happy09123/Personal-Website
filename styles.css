@@ -1,0 +1,23 @@
+body {
+    /* background-color: #fde6db;
+    color: #3b3938; */
+    background-color: #f7cfbd;
+    color: #5a463d;
+    
+}
+
+hr {
+    /* OLD COLOR - #a58e83 */
+    border: solid 0.1px #b38b79;
+}
+
+a {
+    /* color: #7a6d67; */
+    color: #6b574e;
+}
+
+a:hover {
+    /* color: #ac988c; */
+
+    color: #a1806f;
+}
